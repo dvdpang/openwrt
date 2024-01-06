@@ -37,7 +37,7 @@ git clone https://github.com/kenzok78/luci-theme-argonne.git package/luci-theme-
 #  系统
 
 #定时重启
-#git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
+git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
 
 #ttyd lede包已有
 
@@ -54,7 +54,7 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-a
 # 服务
 
 #docker
-git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+#git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 
 #ShadowSocksR Plus+
 git clone https://github.com/fw876/helloworld.git package/helloworld
@@ -73,7 +73,7 @@ git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/fw876/helloworld.git package/helloworld
 
 #openclash
-git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+#git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 
 #luci-app-adguardhome
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
