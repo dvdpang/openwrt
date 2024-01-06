@@ -85,7 +85,7 @@ git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/luci-app-ddns
 # NAS
 
 #文件助手
-svn co https://github.com/kiddin9/openwrt-packages/tree/master/luci-app-fileassistant package/luci-app-fileassistant
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
 
 ##############################################################################################
 
