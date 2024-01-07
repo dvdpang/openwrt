@@ -60,12 +60,12 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-a
 git clone https://github.com/fw876/helloworld.git package/helloworld
 
 #passwall
-git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
-git clone -b luci https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall
+#git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
+#git clone -b luci https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall
 
 #passwall2
-#git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
-#git clone https://github.com/xiaorouji/openwrt-passwall2.git package/openwrt-passwall2
+git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
+git clone https://github.com/xiaorouji/openwrt-passwall2.git package/openwrt-passwall2
 
 #helloword
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
